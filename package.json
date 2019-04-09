@@ -15,7 +15,7 @@
     "pug": "2.0.0-beta11"
   },
   "devDependencies": {
-    "nodemon": "^1.17.5",
+    "nodemon": "^1.18.11",
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8"
   }
